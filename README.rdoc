@@ -2,4 +2,4 @@
 
 An in-depth resource of the top ranked cities for expats, based on affordability, healthcare, economic stability, and safety.
 
-![main ppt side](https://github.com/hkdeven/EXPATIK/blob/master/app/assets/images/Screen%20Shot%202016-06-03%20at%208.16.30%20PM.png?raw=true)
+![main ppt side](https://raw.githubusercontent.com/hkdeven/EXPATIK/master/app/assets/images/Screen%20Shot%202016-06-03%20at%208.41.35%20PM.png)
